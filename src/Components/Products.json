@@ -1,0 +1,22 @@
+{
+	"result": [
+      {
+      	"image":"secondimage.webp",
+      	"name":"Cotton Shirt",
+      	"price":250,
+      	"mainPrice":300
+      },
+      {
+      	"image":"firstimage.webp",
+      	"name":"White TShirt",
+      	"price":550,
+      	"mainPrice":600
+      },
+      {
+      	"image":"thirdimage.webp",
+        "name":"Full sleeve TShirt",
+        "price":200,
+        "mainPrice":250
+      }
+	]
+}
